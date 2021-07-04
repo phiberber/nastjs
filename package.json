@@ -16,7 +16,7 @@
     "webframework"
   ],
   "author": "phiberber",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/phiberber/relyjs/issues"
   },
