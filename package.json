@@ -1,0 +1,24 @@
+{
+  "name": "relyjs",
+  "version": "0.0.1",
+  "description": "solidjs web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phiberber/relyjs.git"
+  },
+  "keywords": [
+    "solidjs",
+    "nextjs",
+    "webframework"
+  ],
+  "author": "phiberber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phiberber/relyjs/issues"
+  },
+  "homepage": "https://github.com/phiberber/relyjs#readme"
+}
