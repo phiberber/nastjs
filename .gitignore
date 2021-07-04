@@ -1,6 +1,10 @@
 # Jebtrains
 .idea
 
+# Package Management
+package-lock.json
+yarn.lock
+
 # Logs
 logs
 *.log

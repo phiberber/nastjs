@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/phiberber/rely.js/issues"
   },
-  "homepage": "https://github.com/phiberber/rely.js#readme"
+  "homepage": "https://github.com/phiberber/rely.js#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
